@@ -1,2 +1,2 @@
 # Exemples-de-projets
-Tous mes projets se retrouve dans le zip.
+Tous mes projets se retrouvent dans le zip.
